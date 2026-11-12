@@ -1,0 +1,5 @@
+text=input("enter a text:")
+print("first letter:",text[0])
+print("last letter:",text[-1])
+print("every second letter:",text[::2])
+print(text[2:8:2])
